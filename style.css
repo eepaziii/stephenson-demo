@@ -1,0 +1,24 @@
+/*
+My First CSS File
+*/
+
+html {
+  font-family: sans-serif;
+}
+
+h1 {
+  color:red;
+  font-family:serif;
+}
+
+h3 {
+  color:blue;
+}
+
+.blue-heading {
+  color: blue;
+}
+
+.green-heading {
+  color:green;
+}
